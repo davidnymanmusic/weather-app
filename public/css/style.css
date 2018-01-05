@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Marmelad|PT+Sans+Caption');
+
+/* font-family: 'Alegreya', serif;
+font-family: 'PT Sans Caption', sans-serif;
+font-family: 'Marmelad', sans-serif; */
+
+body {
+  background-color: rgb(102, 122, 122);
+}
+h1 {
+  font-family: 'Marmelad', sans-serif;
+  color: rgb(240, 240, 240);
+  text-align: center;
+}
+
+p {
+  font-family: 'PT Sans Caption', sans-serif;
+  color: rgb(240, 240, 240);
+  text-align: center;
+  font-size: 30px;
+}
+
+span {
+  font-weight: 900;
+  font-size: 38px;
+  color: rgb(237, 252, 255);
+}
